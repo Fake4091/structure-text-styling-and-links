@@ -2,3 +2,10 @@ body {
   background-color: #24273a;
   color: #cad3f5;
 }
+a:link {
+  color: #04a5e5;
+}
+
+a:visited {
+  color: #8839ef;
+}
