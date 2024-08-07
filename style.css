@@ -1,11 +1,23 @@
-body {
-  background-color: #24273a;
-  color: #cad3f5;
+h1 {
+  font-weight: bold;
 }
+
+.course {
+  font-size: 20pt;
+}
+
+p {
+  font-size: 16pt;
+}
+
 a:link {
-  color: #04a5e5;
+  color: brown;
 }
 
 a:visited {
-  color: #8839ef;
+  color: blue;
+}
+
+a:hover {
+  color: red;
 }
